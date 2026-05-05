@@ -4,6 +4,9 @@ React + Vite frontend for the Leave & Time-Off Tracker application. Employees ca
 
 ---
 
+## Live Demo 
+(https://leave-tracker-frontend.vercel.app/)[https://leave-tracker-frontend.vercel.app/]
+
 ## Tech Stack
 
 | Layer | Technology |
